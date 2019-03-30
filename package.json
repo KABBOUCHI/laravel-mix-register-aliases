@@ -1,0 +1,31 @@
+{
+  "name": "laravel-mix-register-aliases",
+  "version": "0.1.0",
+  "description": "A quick Laravel Mix extension to register aliases (~,@).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabbouchi/laravel-mix-register-aliases.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "alias",
+    "aliases",
+    "@",
+    "~"
+  ],
+  "author": "Georges KABBOUCHI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabbouchi/laravel-mix-register-aliases/issues"
+  },
+  "homepage": "https://github.com/kabbouchi/laravel-mix-register-aliases#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
